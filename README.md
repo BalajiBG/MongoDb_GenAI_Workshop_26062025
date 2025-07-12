@@ -1,0 +1,2 @@
+# MongoDb_GenAI_Workshop_26062025
+MongoDb_GenAI_Workshop_26062025
